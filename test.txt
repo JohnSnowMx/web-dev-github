@@ -1,3 +1,3 @@
-This is my first commit!
+This is another of the another commit! I hope this works again
 
-And here we go witch commit #2
+And here we go witch commit #2!
